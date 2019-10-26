@@ -2,6 +2,19 @@ https://sites.google.com/site/upravlenieznaniami/
 https://iphlib.ru/library/collection/newphilenc/document/HASHfa8b4ea9682875871d14fa
 http://orgstructura.ru/definition-of-organizational-structure
 
+https://studopedia.su/11_95660_urovni-ponimaniya.html
+http://www.dzyalosh.ru/01-comm/books/uroki/2-2-vidi-ponimaniy.html
+http://ehd.mgimo.ru/IORManagerMgimo/file?id=82810AA6-ECE4-72C2-050C-BE373F0A83C5
+https://sch1623u.mskobr.ru/files/%20%D0%9F%D0%9E%D0%9D%D0%98%D0%9C%D0%90%D0%9D%D0%98%D0%AF%20%D0%A2%D0%95%D0%9A%D0%A1%D0%A2%D0%90.pdf
+
+https://libre.life/ideo/conscio/ru
+http://5dreal.com/2017/11/06/sel-rejchel-urovni-osoznaniya-i-raznye-realnosti/
+http://www.cluber.com.ua/lifestyle/2012/01/urovni-osoznaniya-realnosti/
+https://www.gennadij.pavlenko.name/best-life/alllevels
+https://fil.wikireading.ru/92826
+https://ziancoaching.com/karta-uroven-urovni-soznaniya-cheloveka.html
+https://kluchimasterstva.ru/dusha-cheloveka-spiritual
+
 # Онтология
 
 Онтоло́гия в информатике (новолат. ontologia от др.-греч. ὤν род. п. ὄντος — сущее, то, что существует и λόγος — учение, наука) — это попытка всеобъемлющей и подробной формализации некоторой области знаний с помощью концептуальной схемы. Обычно такая схема состоит из структуры данных, содержащей все релевантные классы объектов, их связи и правила (теоремы, ограничения), принятые в этой области. Этот термин в информатике является производным от древнего философского понятия «онтология».
