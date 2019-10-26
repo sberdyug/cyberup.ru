@@ -1,5 +1,6 @@
-(Управление знаниями)[https://sites.google.com/site/upravlenieznaniami/]
+https://sites.google.com/site/upravlenieznaniami/
 https://iphlib.ru/library/collection/newphilenc/document/HASHfa8b4ea9682875871d14fa
+http://orgstructura.ru/definition-of-organizational-structure
 
 # Онтология
 
