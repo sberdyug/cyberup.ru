@@ -5,6 +5,7 @@
 - Принцип 20 на 80
 - Системный подход
 - Логические устройства
+- Блолк-схема, ER-модель, Бизнес-логика
 - Основы системы Linux
 - Коммандная строка Bash
 - Проектное мышление с UML
@@ -13,6 +14,7 @@
 - Список математических символов
 - Структуры и алгоритмы данных
 - Стандарты кодирования
+- Основные конструкции языков программирования
 - Проектирование баз данных
 - Объектное-ориетирование в PHP
 - Философия архитектуры ООП
@@ -40,7 +42,7 @@
 - Пакет полезных приложений
 - Руководство по развертыванию в облаке
 
-
+[Основы программирования. Лекции](https://proginfo.github.io/umk/op/lec/lec.html)
 
 Справочники: Markdown, HTML, CSS, PHP, Perl, JavaScript, Apache, Nginx, MySQL, PostgreSQL, MongoDB, Redis, Memcached, NodeJS, Python, TypeScript, Docker, Sphinx...
 
@@ -60,6 +62,9 @@ git-cli, php-cli, mysql-cli, redis-cli, mongo-cli composer-cli, node-cli, memcac
 
 
 Bootstrap, jQuery, Lodash, React, Vue
+
+
+http://bigor.bmstu.ru/?cnt/?doc=OP2/OP_T.cou
 
 https://sites.google.com/site/upravlenieznaniami/
 https://iphlib.ru/library/collection/newphilenc/document/HASHfa8b4ea9682875871d14fa
