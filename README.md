@@ -30,7 +30,7 @@
 
 
 
-Справочники: Markdown, HTML, CSS, PHP, Perl, JavaScript, Apache, Nginx, MySQL, PostgreSQL, MongoDB, Redis, Memcached, NodeJS, Python, TypeScript, Docker...
+Справочники: Markdown, HTML, CSS, PHP, Perl, JavaScript, Apache, Nginx, MySQL, PostgreSQL, MongoDB, Redis, Memcached, NodeJS, Python, TypeScript, Docker, Sphinx...
 
 RxJS, FastAPI, Scrapy
 
