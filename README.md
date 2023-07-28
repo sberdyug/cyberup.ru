@@ -49,7 +49,7 @@ RxJS, FastAPI, Scrapy
 php, mysql-server, nginx, apache
 
 
-bash, git, php, composer, npm, sqlite, mysql, mysqldump, psql, curl, gd2, imagic, ffmpeg
+bash, git, php, composer, npm, npx, sqlite, mysql, mysqldump, psql, curl, gd2, imagic, jpeg, openssl, 
 
 
 https://sites.google.com/site/upravlenieznaniami/
