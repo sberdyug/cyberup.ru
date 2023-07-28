@@ -1,3 +1,17 @@
+# ОГЛАВЛЕНИЕ
+
+- Структуры и алгоритмы данных
+- Общие принципы ООП
+- Стандарты кодирования
+- Философия архитектуры ООП, SOLID-принципы, Dry, KISS и YAGNI 
+- Паттерны проектирования
+- SPA,MPA PWA - приложения
+- OpenAPI, Swagger
+- Yii2 MVC Framework
+- React Application
+- Техническая документация
+
+
 https://sites.google.com/site/upravlenieznaniami/
 https://iphlib.ru/library/collection/newphilenc/document/HASHfa8b4ea9682875871d14fa
 http://orgstructura.ru/definition-of-organizational-structure
