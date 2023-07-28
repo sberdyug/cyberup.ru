@@ -32,7 +32,7 @@
 
 Справочники: HTML, CSS, PHP, Perl, JavaScript, Apache, Nginx, MySQL, PostgreSQL, MongoDB, Redis, Memcached, NodeJS, Python, TypeScript, Docker...
 
-RxJS, FastAPI
+RxJS, FastAPI, Scrapy
 
 php, mysql-server, nginx, apache
 
