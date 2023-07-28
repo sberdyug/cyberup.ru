@@ -16,7 +16,7 @@
 - SOLID-принципы, Dry, KISS и YAGNI 
 - Паттерны проектирования
 - Архитектуры приложений
-- MVC, MVP, MVVC 
+- MVC, MVP, MVVC,SOA архитектурные шаблоны
 - SPA,MPA PWA - приложения
 - OpenAPI, Swagger
 - Bootstrap, jQuery
