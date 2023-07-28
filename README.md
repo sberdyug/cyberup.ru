@@ -34,16 +34,23 @@
 - Настройка окружения
 - Интегрированная среда разработки
 - Пакет полезных приложений
+- Руководство по развертыванию в облаке
 
 
 
 Справочники: Markdown, HTML, CSS, PHP, Perl, JavaScript, Apache, Nginx, MySQL, PostgreSQL, MongoDB, Redis, Memcached, NodeJS, Python, TypeScript, Docker, Sphinx...
 
+Npm, Npx, Composer, Bower, Gulp, WebPack
+
+
 RxJS, FastAPI, Scrapy
+
 
 php, mysql-server, nginx, apache
 
-git, composer, n
+
+bash, git, php, composer, npm, sqlite, mysql, mysqldump, psql, curl, gd2, imagic, ffmpeg
+
 
 https://sites.google.com/site/upravlenieznaniami/
 https://iphlib.ru/library/collection/newphilenc/document/HASHfa8b4ea9682875871d14fa
