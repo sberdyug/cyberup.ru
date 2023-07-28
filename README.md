@@ -15,6 +15,8 @@
 - Философия архитектуры ООП
 - SOLID-принципы, Dry, KISS и YAGNI 
 - Паттерны проектирования
+- Архитектуры приложений
+- MVC, MVP, MVVC 
 - SPA,MPA PWA - приложения
 - OpenAPI, Swagger
 - Bootstrap, jQuery
