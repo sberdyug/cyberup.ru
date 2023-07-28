@@ -8,7 +8,7 @@
 - [Yii2-Cookbook](https://github.com/kopyrin/yii2-cookbook-3-ru/tree/master)
 - [PSR Стандарты](https://habr.com/ru/articles/458484/)
 - [Введение в JSONForms](https://www.codeflow.site/ru/article/introduction-to-jsonforms)
-
+- [Что такое процессное управление](https://habr.com/ru/articles/544216/)
 - [Математические обозначения](https://dic.academic.ru/dic.nsf/ruwiki/1387780)
 - [Список математических аббревиатур](https://dic.academic.ru/dic.nsf/ruwiki/1335301)
 - [Логика как наука](https://studfile.net/preview/2673781/)
