@@ -51,7 +51,7 @@ php, mysql-server, nginx, apache
 
 bash, apt, pkg, dpkg, git, php, composer, npm, npx, sqlite, mysql, mysqldump, psql, curl, gd2, imagic, jpeg, openssl, docker, docker-compose, vagrant, redis-cli
 
-got-cli, php-cli, mysql-cli, redis-cli, mongo-cli composer-cli, node-cli, memcached-cli
+git-cli, php-cli, mysql-cli, redis-cli, mongo-cli composer-cli, node-cli, memcached-cli,
 
 https://sites.google.com/site/upravlenieznaniami/
 https://iphlib.ru/library/collection/newphilenc/document/HASHfa8b4ea9682875871d14fa
