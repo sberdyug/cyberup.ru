@@ -8,7 +8,7 @@
 - [Математические обозначения](https://dic.academic.ru/dic.nsf/ruwiki/1387780)
 - [Список математических аббревиатур](https://dic.academic.ru/dic.nsf/ruwiki/1335301)
 - [Логика как наука](https://studfile.net/preview/2673781/)
-
+- [Список математических символов](https://www.rapidtables.org/ru/math/symbols/Basic_Math_Symbols.html)
 - [GitBook](https://docs.gitbook.com/)
 - [SlideShare](https://www.slideshare.net/)
 - [CodePen](https://codepen.io/)
