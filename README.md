@@ -17,6 +17,7 @@
 - SOLID-принципы, Dry, KISS и YAGNI 
 - Паттерны проектирования
 - Архитектуры приложений
+- Возможности протокола HTTP & WebSoket
 - MVC, MVP, MVVC,SOA архитектурные шаблоны
 - SPA,MPA PWA - приложения
 - OpenAPI, Swagger
