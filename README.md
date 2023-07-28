@@ -20,6 +20,7 @@
 - Отладка с xDebug
 - Создание Telegram бота
 - Создание Chrome Extension
+- Машинное обучение
 
 
 
