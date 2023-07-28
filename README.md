@@ -5,6 +5,9 @@
 - [Принципы для разработки: KISS, DRY, YAGNI, BDUF, SOLID, APO и бритва Оккама](https://folko.gitbook.io/podgotovka-k-sobesedovaniyu/paradigmy-proektirovaniya/principy-dlya-razrabotki-kiss-dry-yagni-bduf-solid-apo-i-britva-okkama)
 - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
+- [Математические обозначения](https://dic.academic.ru/dic.nsf/ruwiki/1387780)
+- [Список математических аббревиатур](https://dic.academic.ru/dic.nsf/ruwiki/1335301)
+- [Логика как наука](https://studfile.net/preview/2673781/)
 
 - [GitBook](https://docs.gitbook.com/)
 - [SlideShare](https://www.slideshare.net/)
