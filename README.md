@@ -4,6 +4,9 @@
 - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 - [Принципы для разработки: KISS, DRY, YAGNI, BDUF, SOLID, APO и бритва Оккама](https://folko.gitbook.io/podgotovka-k-sobesedovaniyu/paradigmy-proektirovaniya/principy-dlya-razrabotki-kiss-dry-yagni-bduf-solid-apo-i-britva-okkama)
 - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+- [Профилирование и отладка php-приложений с помощью xhprof & FirePHP](https://habr.com/ru/articles/145895/)
+- [Yii2-Cookbook](https://github.com/kopyrin/yii2-cookbook-3-ru/tree/master)
+- [PSR Стандарты](https://habr.com/ru/articles/458484/)
 
 - [Математические обозначения](https://dic.academic.ru/dic.nsf/ruwiki/1387780)
 - [Список математических аббревиатур](https://dic.academic.ru/dic.nsf/ruwiki/1335301)
