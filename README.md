@@ -1,5 +1,8 @@
 # ОГЛАВЛЕНИЕ
 
+- Логика высказываний
+- Формальная логика
+- Список математических символов
 - Структуры и алгоритмы данных
 - Общие принципы ООП
 - Стандарты кодирования
@@ -10,7 +13,9 @@
 - Yii2 MVC Framework
 - React Application
 - Docker Containers
-- 
+- Разработка через тестирование
+- Контроль версий
+- Рефакторинг кода
 
 Справочники: HTML, CSS, PHP, Perl, JavaScript, Apache, Nginx, MySQL, PostgreSQL, MongoDB, Redis, Memcached, NodeJS, Python, TypeScript, Docker...
 
