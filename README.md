@@ -55,6 +55,9 @@ bash, apt, pkg, dpkg, git, php, composer, npm, npx, sqlite, mysql, mysqldump, ps
 
 git-cli, php-cli, mysql-cli, redis-cli, mongo-cli composer-cli, node-cli, memcached-cli,
 
+
+Bootstrap, jQuery, Lodash, React, Vue
+
 https://sites.google.com/site/upravlenieznaniami/
 https://iphlib.ru/library/collection/newphilenc/document/HASHfa8b4ea9682875871d14fa
 http://orgstructura.ru/definition-of-organizational-structure
