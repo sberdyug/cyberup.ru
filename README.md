@@ -1,17 +1,16 @@
 # ИЗБРАННЫЕ СТАТЬИ 
 
-[Что такое SPA, MPA и PWA. Плюсы и минусы популярных подходов к построению сайтов](https://www.azoft.ru/blog/spa-mpa-pwa/)
-[Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
-[Принципы для разработки: KISS, DRY, YAGNI, BDUF, SOLID, APO и бритва Оккама](https://folko.gitbook.io/podgotovka-k-sobesedovaniyu/paradigmy-proektirovaniya/principy-dlya-razrabotki-kiss-dry-yagni-bduf-solid-apo-i-britva-okkama)
-[Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+- [Что такое SPA, MPA и PWA. Плюсы и минусы популярных подходов к построению сайтов](https://www.azoft.ru/blog/spa-mpa-pwa/)
+- [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+- [Принципы для разработки: KISS, DRY, YAGNI, BDUF, SOLID, APO и бритва Оккама](https://folko.gitbook.io/podgotovka-k-sobesedovaniyu/paradigmy-proektirovaniya/principy-dlya-razrabotki-kiss-dry-yagni-bduf-solid-apo-i-britva-okkama)
+- [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
 
-[GitBook](https://docs.gitbook.com/)
-[SlideShare](https://www.slideshare.net/)
-[CodePen](https://codepen.io/)
-[HighLoad](https://highload.today/)_
-
-[CСобеседованире](https://folko.gitbook.io/podgotovka-k-sobesedovaniyu/)
+- [GitBook](https://docs.gitbook.com/)
+- [SlideShare](https://www.slideshare.net/)
+- [CodePen](https://codepen.io/)
+- [HighLoad](https://highload.today/)_
+- [Собеседованире](https://folko.gitbook.io/podgotovka-k-sobesedovaniyu/)
 
 # ОГЛАВЛЕНИЕ
 
