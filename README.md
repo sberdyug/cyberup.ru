@@ -16,6 +16,11 @@
 - Разработка через тестирование
 - Контроль версий
 - Рефакторинг кода
+- Отладка с xDebug
+- Создание Telegram бота
+- Создание Chrome Extension
+
+
 
 Справочники: HTML, CSS, PHP, Perl, JavaScript, Apache, Nginx, MySQL, PostgreSQL, MongoDB, Redis, Memcached, NodeJS, Python, TypeScript, Docker...
 
