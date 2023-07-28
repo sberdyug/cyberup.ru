@@ -73,7 +73,7 @@
 Npm, Npx, Composer, Bower, Gulp, WebPack
 
 
-RxJS, FastAPI, Scrapy
+RxJS, FastAPI, Scrapy, NW.JS
 
 
 
