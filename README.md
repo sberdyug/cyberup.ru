@@ -7,12 +7,15 @@
 - Формальная логика
 - Список математических символов
 - Структуры и алгоритмы данных
-- Общие принципы ООП
 - Стандарты кодирования
-- Философия архитектуры ООП, SOLID-принципы, Dry, KISS и YAGNI 
+- Проектирование баз данных
+- Объектное-ориетирование в PHP
+- Философия архитектуры ООП
+- SOLID-принципы, Dry, KISS и YAGNI 
 - Паттерны проектирования
 - SPA,MPA PWA - приложения
 - OpenAPI, Swagger
+- Bootstrap, jQuery
 - Yii2 MVC Framework
 - React Application
 - Docker Containers
@@ -23,10 +26,13 @@
 - Создание Telegram бота
 - Создание Chrome Extension
 - Машинное обучение
+- Монитор производительности
 
 
 
 Справочники: HTML, CSS, PHP, Perl, JavaScript, Apache, Nginx, MySQL, PostgreSQL, MongoDB, Redis, Memcached, NodeJS, Python, TypeScript, Docker...
+
+RxJS, FastAPI
 
 php, mysql-server, nginx, apache
 
