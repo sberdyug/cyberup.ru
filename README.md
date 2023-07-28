@@ -1,6 +1,22 @@
+# ИЗБРАННЫЕ СТАТЬИ 
+
+[Что такое SPA, MPA и PWA. Плюсы и минусы популярных подходов к построению сайтов](https://www.azoft.ru/blog/spa-mpa-pwa/)
+[Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+[Принципы для разработки: KISS, DRY, YAGNI, BDUF, SOLID, APO и бритва Оккама](https://folko.gitbook.io/podgotovka-k-sobesedovaniyu/paradigmy-proektirovaniya/principy-dlya-razrabotki-kiss-dry-yagni-bduf-solid-apo-i-britva-okkama)
+[Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+
+
+[GitBook](https://docs.gitbook.com/)
+[SlideShare](https://www.slideshare.net/)
+[CodePen](https://codepen.io/)
+[HighLoad](https://highload.today/)_
+
+[CСобеседованире](https://folko.gitbook.io/podgotovka-k-sobesedovaniyu/)
+
 # ОГЛАВЛЕНИЕ
 
-
+- Общие понятия
+- Основы программирования
 - Научный подход
 - Принцип 20 на 80
 - Системный подход
@@ -8,7 +24,7 @@
 - Блолк-схема, ER-модель, Бизнес-логика
 - Основы системы Linux
 - Коммандная строка Bash
-- Проектное мышление с UML
+- Проектное мышление с UML, ГОСТ 19.701-90
 - Логика высказываний
 - Формальная логика
 - Список математических символов
@@ -41,8 +57,14 @@
 - Интегрированная среда разработки
 - Пакет полезных приложений
 - Руководство по развертыванию в облаке
+- Словарь терминов
 
 [Основы программирования. Лекции](https://proginfo.github.io/umk/op/lec/lec.html)
+[Паттерны](https://github.com/Grezer/patterns)
+[Подготовка к собеседованию](https://folko.gitbook.io/podgotovka-k-sobesedovaniyu/)
+[Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+
+Программирование, Data Science и DevOps
 
 Справочники: Markdown, HTML, CSS, PHP, Perl, JavaScript, Apache, Nginx, MySQL, PostgreSQL, MongoDB, Redis, Memcached, NodeJS, Python, TypeScript, Docker, Sphinx...
 
